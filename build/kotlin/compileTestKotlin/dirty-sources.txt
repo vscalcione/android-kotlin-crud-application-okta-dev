@@ -1,0 +1,1 @@
+/media/vscalcione/Dati/android-kotlin-crud-app/src/test/kotlin/android/kotlin/crud/app/AppTest.kt
